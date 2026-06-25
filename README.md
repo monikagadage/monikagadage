@@ -21,15 +21,15 @@ I enjoy solving complex problems, learning continuously, and creating technology
 
 **Backend & Core**
 
-[![Java](https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg "Java")](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
-[![Spring](https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg "Spring")](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)
-[![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg "Python")](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-[![MySQL](https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg "MySQL")](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" title="Spring" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>
 
 **Cloud & DevOps**
 
-[![AWS](https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg "AWS")](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
-[![Linux](https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg "Linux")](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)
+<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
 
 **AI & ML**
 
@@ -37,8 +37,8 @@ I enjoy solving complex problems, learning continuously, and creating technology
 
 **Frontend**
 
-[![HTML](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg "HTML5")](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-[![CSS](https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg "CSS3")](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="50" height="50"/>
 
 ---
 
