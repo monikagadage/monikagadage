@@ -39,13 +39,20 @@ I enjoy solving complex problems, learning continuously, and creating technology
 
 ## 🚀 Featured Projects
 
-### 🤖 Java Interview Coach Agent *(New — AI Project)*
+### 🤖 [Java Interview Coach](https://github.com/monikagadage/java-interview-coach)
 An agentic AI application that simulates a Java technical interview. Built with LangChain, LangGraph, Groq LLM, ChromaDB (RAG), and Streamlit.
-> Repo coming soon on this profile!
 
-### 💰 FinMind Budget Planner Agent *(New — AI Project)*
-An AI-powered personal finance assistant built with agentic AI tooling.
-> Repo coming soon on this profile!
+### 🧠 [Agentic AI](https://github.com/monikagadage/agentic-ai)
+Exploration and experiments with agentic AI frameworks and LLM pipelines.
+
+### 🔍 [RAG](https://github.com/monikagadage/Rag)
+Retrieval-Augmented Generation implementation using ChromaDB and LLM tooling.
+
+### 📊 [DSA Problems](https://github.com/monikagadage/dsa-problems)
+Data structures and algorithms practice in Python — working through Neetcode 150.
+
+### 🗃️ [Heap Practice](https://github.com/monikagadage/heap-practice)
+Focused practice on heap/priority queue problems in Python.
 
 ---
 
