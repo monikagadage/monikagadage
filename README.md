@@ -1,62 +1,31 @@
-![Banner](https://media.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif)
+# Monika Gadage
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-gadage)
-[![GitHub (Previous)](https://img.shields.io/badge/Previous%20GitHub-monicagadage-lightgrey?style=for-the-badge&logo=github)](https://github.com/monicagadage)
+Full Stack Java Developer with 6+ years of experience building scalable backend systems and modern web applications. Strong foundation in Java/Spring Boot, currently expanding into AI/ML engineering — building agentic AI applications with LangChain, LangGraph, and RAG pipelines.
 
----
-
-# Hi there! 👋
-
-## 👩‍💻 About Me
-
-I'm a Full Stack Java Developer with 6+ years of experience building scalable backend systems and modern web applications. I have a strong foundation in Java/Spring Boot and have been actively expanding into AI/ML engineering — building agentic AI applications with LangChain, LangGraph, and RAG pipelines.
-
-I enjoy solving complex problems, learning continuously, and creating technology that makes an impact.
-
-> 🔗 **Note:** Some of my earlier projects live on my previous GitHub at [github.com/monicagadage](https://github.com/monicagadage) — feel free to explore them there!
+[LinkedIn](https://www.linkedin.com/in/monika-gadage) · [Previous GitHub](https://github.com/monicagadage)
 
 ---
 
-## 🛠️ Languages & Tools
+## Skills
 
-**Backend & Core**
+**Backend:** Java · Spring Boot · Python · MySQL
+**Cloud/DevOps:** AWS · Linux
+**AI/ML:** LangChain · LangGraph · ChromaDB · Groq · RAG · TensorFlow · PyTorch · Streamlit
+**Frontend:** HTML5 · CSS3
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" title="Spring" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>
+## Featured Projects
 
-**Cloud & DevOps**
+| Project | Description |
+|---|---|
+| [Java Interview Coach](https://github.com/monikagadage/java-interview-coach) | Agentic AI application that simulates a Java technical interview. Built with LangChain, LangGraph, Groq LLM, ChromaDB (RAG), and Streamlit. |
+| [Agentic AI](https://github.com/monikagadage/agentic-ai) | Experiments with agentic AI frameworks and LLM pipelines. |
+| [RAG](https://github.com/monikagadage/Rag) | Retrieval-Augmented Generation implementation using ChromaDB and LLM tooling. |
+| [DSA Problems](https://github.com/monikagadage/dsa-problems) | Data structures and algorithms practice in Python (Neetcode 150). |
+| [Heap Practice](https://github.com/monikagadage/heap-practice) | Focused practice on heap/priority queue problems in Python. |
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
+## Earlier Projects
 
-**AI & ML**
-
-`LangChain` · `LangGraph` · `ChromaDB` · `Groq` · `Streamlit` · `RAG` · `TensorFlow` · `PyTorch`
-
-**Frontend**
-
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>&nbsp;<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="50" height="50"/>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Java Interview Coach](https://github.com/monikagadage/java-interview-coach)
-An agentic AI application that simulates a Java technical interview. Built with LangChain, LangGraph, Groq LLM, ChromaDB (RAG), and Streamlit.
-
-### 🧠 [Agentic AI](https://github.com/monikagadage/agentic-ai)
-Exploration and experiments with agentic AI frameworks and LLM pipelines.
-
-### 🔍 [RAG](https://github.com/monikagadage/Rag)
-Retrieval-Augmented Generation implementation using ChromaDB and LLM tooling.
-
-### 📊 [DSA Problems](https://github.com/monikagadage/dsa-problems)
-Data structures and algorithms practice in Python — working through Neetcode 150.
-
-### 🗃️ [Heap Practice](https://github.com/monikagadage/heap-practice)
-Focused practice on heap/priority queue problems in Python.
-
----
-
-## 📂 Previous Projects *(via [monicagadage](https://github.com/monicagadage))*
+Additional projects from earlier in my career are archived at [github.com/monicagadage](https://github.com/monicagadage), including:
 
 | Project | Description | Tech |
 |---|---|---|
@@ -67,14 +36,10 @@ Focused practice on heap/priority queue problems in Python.
 | [GoldChase Game](https://github.com/monicagadage/GoldChase-Game) | Console-based game | C++ |
 | [COVID-19 Herd Immunity](https://github.com/monicagadage/covid19-herdImmunity) | Simulation model | Jupyter Notebook |
 
----
+## GitHub Stats
 
-## 🔥 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monikagadage&show_icons=true&include_all_commits=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monikagadage&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikagadage&layout=compact&theme=default)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monikagadage&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikagadage&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-*Always building. Always learning.* 🚀
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monikagadage&theme=github-compact)
