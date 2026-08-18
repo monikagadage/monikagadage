@@ -35,11 +35,3 @@ Additional projects from earlier in my career are archived at [github.com/monica
 | [ColorMap Algorithm](https://github.com/monicagadage/ColorMap-Alogorithm) | Graph coloring algorithm | C++ |
 | [GoldChase Game](https://github.com/monicagadage/GoldChase-Game) | Console-based game | C++ |
 | [COVID-19 Herd Immunity](https://github.com/monicagadage/covid19-herdImmunity) | Simulation model | Jupyter Notebook |
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monikagadage&show_icons=true&include_all_commits=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monikagadage&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monikagadage&layout=compact&theme=default)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monikagadage&theme=github-compact)
