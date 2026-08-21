@@ -20,8 +20,6 @@ Full Stack Java Developer with 6+ years of experience building scalable backend 
 | [Java Interview Coach](https://github.com/monikagadage/java-interview-coach) | Agentic AI application that simulates a Java technical interview. Built with LangChain, LangGraph, Groq LLM, ChromaDB (RAG), and Streamlit. |
 | [Agentic AI](https://github.com/monikagadage/agentic-ai) | Experiments with agentic AI frameworks and LLM pipelines. |
 | [RAG](https://github.com/monikagadage/Rag) | Retrieval-Augmented Generation implementation using ChromaDB and LLM tooling. |
-| [DSA Problems](https://github.com/monikagadage/dsa-problems) | Data structures and algorithms practice in Python (Neetcode 150). |
-| [Heap Practice](https://github.com/monikagadage/heap-practice) | Focused practice on heap/priority queue problems in Python. |
 
 ## Earlier Projects
 
